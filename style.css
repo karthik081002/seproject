@@ -1,0 +1,33 @@
+body{
+  background-color: beige;
+}
+
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.password-container {
+  margin-top: 20px;
+}
+
+#password {
+  width: 300px;
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.bu{
+  margin-top: 15px;
+}
+
+.tab{
+  margin-left: 625px;
+}
